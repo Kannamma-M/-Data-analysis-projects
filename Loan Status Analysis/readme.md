@@ -1,6 +1,8 @@
  📊 Loan Status Analysis – Insights
 
+![Loan Status Analysis Dashboard](Loan Status Analysis/Screenshot 2026-05-17 060154.png)
 
+![Loan Status Analysis Dashboard](Loan Status Analysis/Screenshot 2026-05-17 060902.png)
 
 ## 📌 Loan Portfolio Overview
 - **Total Applications:** 45,000  
