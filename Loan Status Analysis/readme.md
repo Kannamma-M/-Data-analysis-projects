@@ -1,8 +1,9 @@
  📊 Loan Status Analysis – Insights
 
-![Loan Status Analysis Dashboard](Loan Status Analysis/Screenshot 2026-05-17 060154.png)
+![Loan Status Analysis Dashboard](https://github.com/Kannamma-M/-Data-analysis-projects/blob/a5869acee9b43ed4aef7d52b94a67dfc18251c5f/Loan%20Status%20Analysis/Screenshot%202026-05-17%20060154.png
+)
 
-![Loan Status Analysis Dashboard](Loan Status Analysis/Screenshot 2026-05-17 060902.png)
+![Loan Status Analysis Dashboard](https://github.com/Kannamma-M/-Data-analysis-projects/blob/a5869acee9b43ed4aef7d52b94a67dfc18251c5f/Loan%20Status%20Analysis/Screenshot%202026-05-17%20060902.png)
 
 ## 📌 Loan Portfolio Overview
 - **Total Applications:** 45,000  
