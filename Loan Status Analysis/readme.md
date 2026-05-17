@@ -106,5 +106,4 @@ Credit history length is one of the most decisive factors.
 ---
 
 
-```bash
-git clone https://github.com/your-repo/loan-status-analysis.git
+
